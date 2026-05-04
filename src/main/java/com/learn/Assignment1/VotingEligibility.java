@@ -1,6 +1,5 @@
 package com.learn.Assignment1;
 
-import java.nio.file.spi.FileSystemProvider;
 import java.util.Scanner;
 
 public class VotingEligibility {
